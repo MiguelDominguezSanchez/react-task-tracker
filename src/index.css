@@ -110,3 +110,11 @@ footer {
   margin-top: 30px;
   text-align: center;
 }
+
+/*  */
+
+.App {
+  margin: 50px;
+  padding: 50px;
+  border: 1px solid blue;
+}
